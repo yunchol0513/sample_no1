@@ -86,3 +86,5 @@ class DetailScreen extends StatelessWidget {
     );
   }
 }
+
+//konniti
